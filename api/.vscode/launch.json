@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Library",
+      "request": "launch",
+      "mainClass": "com.galastun.javaapi.Library",
+      "projectName": "java-api"
+    }
+  ]
+}
