@@ -1,4 +1,4 @@
-package com.galastun.javaapi.utilities;
+package com.galastun.bookstore.utilities;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

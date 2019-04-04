@@ -1,0 +1,35 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Bookstore",
+      "request": "launch",
+      "mainClass": "com.galastun.bookstore.Bookstore",
+      "projectName": "java-api"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Bookstore",
+      "request": "launch",
+      "mainClass": "com.galastun.javaapi.Bookstore",
+      "projectName": "java-api"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Bookstore<java-api>",
+      "request": "launch",
+      "mainClass": "com.galastun.javaapi.Bookstore",
+      "projectName": "bookstore-java"
+    }
+  ]
+}

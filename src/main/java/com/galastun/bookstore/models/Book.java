@@ -1,4 +1,4 @@
-package com.galastun.javaapi.models;
+package com.galastun.bookstore.models;
 
 public class Book {
   public int id;

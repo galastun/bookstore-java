@@ -1,7 +1,7 @@
-package com.galastun.javaapi;
+package com.galastun.bookstore;
 
-import com.galastun.javaapi.models.*;
-import com.galastun.javaapi.utilities.DbHelper;
+import com.galastun.bookstore.models.*;
+import com.galastun.bookstore.utilities.DbHelper;
 
 import java.util.HashMap;
 import java.util.ArrayList;

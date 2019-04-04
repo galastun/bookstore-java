@@ -1,4 +1,4 @@
-package com.galastun.javaapi.models;
+package com.galastun.bookstore.models;
 
 import java.util.HashMap;
 
